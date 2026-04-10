@@ -22,7 +22,7 @@ O sistema permite:
 ---
 
 ##  Protótipo no Figma
- [Acessar protótipo](Prototipo v2)
+ [Acessar protótipo](https://www.figma.com/make/a5x6cAUQgYeMvu6tY2ornC/Almoxarifado-SIGE-System?t=vxYpkpVEk64Sga9L-1)
 
 ---
 

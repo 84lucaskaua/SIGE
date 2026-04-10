@@ -22,7 +22,7 @@ O sistema permite:
 ---
 
 ##  Protótipo no Figma
- [Acessar protótipo](prototipo funcional)
+ [Acessar protótipo](Prototipo v2)
 
 ---
 

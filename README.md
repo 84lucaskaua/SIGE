@@ -1,4 +1,4 @@
-# SIGE < Sistema De Gerenciamento De Estoque
+# SIGE < Sistema De Gerenciamento De Estoque.
 
 
 # Integrantes da equipe:

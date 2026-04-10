@@ -1,5 +1,4 @@
-# SIGE
-# Sistema de Almoxarifado
+# SIGE < Sistema De Gerenciamento De Estoque
 
 
 # Integrantes da equipe:
@@ -10,7 +9,7 @@
 
 ---
 
-## Descrição do sistema
+## Descrição do sistema:
 Este sistema de almoxarifado foi desenvolvido para controlar o estoque de produtos, evitando duplicidade de itens e permitindo o gerenciamento por lotes com validade.
 
 O sistema permite:
@@ -21,7 +20,7 @@ O sistema permite:
 
 ---
 
-##  Protótipo no Figma
+##  Protótipo no Figma:
  [Acessar protótipo](https://www.figma.com/make/a5x6cAUQgYeMvu6tY2ornC/Almoxarifado-SIGE-System?t=vxYpkpVEk64Sga9L-1)
 
 ---

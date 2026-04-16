@@ -27,3 +27,7 @@ O sistema permite:
 
 ## Trello do projeto:
  [Acessar quadro](https://trello.com/b/biof70eO/sige)
+
+ ## Pitch do Sige:
+ [Uploading Sistema-de-Gerenciamento-de-Estoque.pptx…]()
+
